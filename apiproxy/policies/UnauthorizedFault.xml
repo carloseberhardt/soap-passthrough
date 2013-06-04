@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RaiseFault enabled="true" continueOnError="false" async="false" name="UnauthorizedFault">
+    <DisplayName>UnauthorizedFault</DisplayName>
+    <FaultRules/>
+    <Properties/>
+    <FaultResponse>
+        <Set>
+            <Headers/>
+            <Payload contentType="text/plain">Invalid API key and/or secret.</Payload>
+            <StatusCode>401</StatusCode>
+            <ReasonPhrase>Unauthorized</ReasonPhrase>
+        </Set>
+    </FaultResponse>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+</RaiseFault>

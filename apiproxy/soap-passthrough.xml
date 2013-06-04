@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="soap-passthrough">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedAt>1370287673837</CreatedAt>
+    <CreatedBy>adminui@apigee.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>soap-passthrough</DisplayName>
+    <LastModifiedAt>1370287706810</LastModifiedAt>
+    <LastModifiedBy>adminui@apigee.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -3,6 +3,6 @@
     <DisplayName>jsRemoveWsse</DisplayName>
     <FaultRules/>
     <Properties/>
-    <IncludeURL>jsc://removeWsseHeader</IncludeURL>
-    <ResourceURL>jsc://removeWsseHeader</ResourceURL>
+    <IncludeURL>jsc://removeWsseHeader.js</IncludeURL>
+    <ResourceURL>jsc://removeWsseHeader.js</ResourceURL>
 </Javascript>

@@ -3,6 +3,6 @@
     <DisplayName>jsSetUuidHeader</DisplayName>
     <FaultRules/>
     <Properties/>
-    <IncludeURL>jsc://uuidHeader</IncludeURL>
-    <ResourceURL>jsc://uuidHeader</ResourceURL>
+    <IncludeURL>jsc://uuidHeader.js</IncludeURL>
+    <ResourceURL>jsc://uuidHeader.js</ResourceURL>
 </Javascript>

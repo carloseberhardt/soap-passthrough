@@ -3,6 +3,6 @@
     <DisplayName>jsCustomerWSDL</DisplayName>
     <FaultRules/>
     <Properties/>
-    <IncludeURL>jsc://fixWSDL</IncludeURL>
-    <ResourceURL>jsc://fixWSDL</ResourceURL>
+    <IncludeURL>jsc://fixWSDL.js</IncludeURL>
+    <ResourceURL>jsc://fixWSDL.js</ResourceURL>
 </Javascript>
